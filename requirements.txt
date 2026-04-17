@@ -1,0 +1,17 @@
+# Core ML
+tensorflow-cpu
+scikit-learn
+numpy
+Pillow
+transformers
+torch
+torchvision
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Utilities
+python-dotenv
