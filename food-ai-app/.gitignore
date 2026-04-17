@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Models (large files – don't push to GitHub)
+models/food_cnn.h5
+models/nutrition_ann.h5
+models/scaler.pkl
+
+# Data
+data/food11/
+data/*.zip
+data/*.tar.gz
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
