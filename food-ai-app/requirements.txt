@@ -9,7 +9,7 @@ torchvision
 
 # Backend
 fastapi
-uvicorn[standard]
+uvicorn
 python-multipart
 pydantic
 
