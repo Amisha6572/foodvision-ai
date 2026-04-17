@@ -1,18 +1,7 @@
-# Core ML
+streamlit
 tensorflow-cpu
 scikit-learn
 numpy
 Pillow
-transformers
-torch
-torchvision
-
-# Backend
-fastapi
-uvicorn
-python-multipart
-pydantic
-
-# Utilities
+opencv-python-headless
 python-dotenv
-streamlit
